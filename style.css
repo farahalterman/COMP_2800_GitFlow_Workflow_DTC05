@@ -4,9 +4,21 @@ body {
 h1 {
   text-align: center;
 }
+<<<<<<< HEAD
 .container {
   margin: 0 auto;
   width: 800px;
   text-align: center;
 }
 
+=======
+.content {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+
+.clickable {
+    cursor: hand;
+}
+>>>>>>> Fara_Halterman_feature1b
