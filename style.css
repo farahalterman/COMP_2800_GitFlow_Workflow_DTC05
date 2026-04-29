@@ -1,11 +1,12 @@
 body {
-    font-family: Calibri,;
+  font-family: Calibri;
 }
 h1 {
-    text-align: center;
+  text-align: center;
 }
-.content {
-    margin: 0 auto;
-    width: 800px;
-    text-align: center;
+.container {
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
 }
+
